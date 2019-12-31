@@ -1,0 +1,6 @@
+# Netlify redirects
+
+https://pensive-dubinsky-44c2f7.netlify.com/* https://presentation.chessiah.xyz/:splat 301!
+http://pensive-dubinsky-44c2f7.netlify.com/* https://presentation.chessiah.xyz/:splat 301!
+
+http://presentation.chessiah.xyz/* https://presentation.chessiah.xyz/:splat 301!
