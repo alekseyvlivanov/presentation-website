@@ -1,6 +1,0 @@
-# Netlify redirects
-
-https://presentation-website-chessiah.netlify.app/* https://presentation-website.chessiah.com/:splat 301!
-http://presentation-website-chessiah.netlify.app/* https://presentation-website.chessiah.com/:splat 301!
-
-http://presentation-website.chessiah.com/* https://presentation-website.chessiah.com/:splat 301!
